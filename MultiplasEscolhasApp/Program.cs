@@ -33,8 +33,8 @@ namespace MultiplasEscolhasApp
                 Console.WriteLine("(2) Calcular quantidade salário mínimo");
                 Console.WriteLine("(3) Calcular volume de uma esfera");
                 Console.WriteLine("(4) Calcular média notas escolares");
-                Console.WriteLine("(6) Verificar animais");
-                Console.WriteLine("(7) Sair");
+                Console.WriteLine("(5) Verificar animais");
+                Console.WriteLine("(6) Sair");
 
                 Console.WriteLine("Digite a sua opção:");
                 opcao = Convert.ToInt32(Console.ReadLine());
